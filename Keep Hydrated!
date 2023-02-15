@@ -1,0 +1,4 @@
+def litres(time):
+    if time > 0:
+        return time // 2
+    return 0
